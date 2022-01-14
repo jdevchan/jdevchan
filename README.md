@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juarezarodrigues)
 
 ![jdevchan GitHub stats](https://github-readme-stats.vercel.app/api?username=jdevchan&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdevchan)](https://github.com/jdevchan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdevchan&layout=compact)](https://github.com/jdevchan/github-readme-stats)
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
