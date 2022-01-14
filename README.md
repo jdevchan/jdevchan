@@ -7,7 +7,6 @@
 
 
 ![jdevchan GitHub stats](https://github-readme-stats.vercel.app/api?username=jdevchan&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdevchan)](https://github.com/jdevchan/github-readme-stats)
 
 ### Tecnologias
